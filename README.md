@@ -8,7 +8,7 @@
 
 ![](C:\Users\sky78\approximation-algorithm-PI\image\Leibniz.png)
 
-즉 위에 식에서 양변에 4만 곱해주면 원주율에 대한 근사값이 나오는데, 이를 java 코드로 구현하면,
+즉 위에 식에서 양변에 4만 곱해주면 원주율에 대한 근사값이 나오는데, 이를 java 코드로 구현하면
 
 ```java
 public class PI {
