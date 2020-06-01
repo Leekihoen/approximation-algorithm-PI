@@ -6,7 +6,7 @@
 
 라이프 니츠 공식은 아래 사진과 같습니다.
 
-![image-20200601210417956](C:\Users\sky78\AppData\Roaming\Typora\typora-user-images\image-20200601210417956.png)
+![](C:\Users\sky78\approximation-algorithm-PI\image\Leibniz.png)
 
 즉 위에 식에서 양변에 4만 곱해주면 원주율에 대한 근사값이 나오는데, 이를 java 코드로 구현하면,
 
@@ -40,8 +40,8 @@ public class PI {
 
 이렇게 나옵니다. 이에 따른 결과는 
 
-![](C:\Users\sky78\Pictures\근사 파이 이거 쓰삼1.png)
+![](C:\Users\sky78\approximation-algorithm-PI\image\resultB.png)
 
 이렇게 나오며 시간이 지난 후에는 이렇게 나오게 됩니다.
 
-![](C:\Users\sky78\Pictures\rmstkvkdl.png)
+![](C:\Users\sky78\approximation-algorithm-PI\image\resultA.png)
